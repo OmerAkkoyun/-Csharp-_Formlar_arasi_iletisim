@@ -1,0 +1,11 @@
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\bin\Debug\formlarArasi.exe.config
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\bin\Debug\formlarArasi.exe
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\bin\Debug\formlarArasi.pdb
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.Form1.resources
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.Form2.resources
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.Properties.Resources.resources
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.exe
+C:\Users\Ömer\source\repos\formlarArasi\formlarArasi\obj\Debug\formlarArasi.pdb
